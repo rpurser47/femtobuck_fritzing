@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 15.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.2"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   width="58.299999"
+   height="58.406231"
+   viewBox="0 0 58.299997 58.406231"
+   xml:space="preserve"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="femtobuck_schematic.svg"><metadata
+   id="metadata3399"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs3397">
+	
+		
+	
+	
+	
+	
+	
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+			
+	
+		
+		
+		
+		
+			
+		
+			
+		
+			
+		
+			
+		
+		
+		
+	</defs><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1018"
+   id="namedview3395"
+   showgrid="false"
+   inkscape:zoom="6.8080158"
+   inkscape:cx="15.887148"
+   inkscape:cy="24.728431"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="layer6"
+   fit-margin-top="0"
+   fit-margin-left="0"
+   fit-margin-right="0"
+   fit-margin-bottom="0" />
+
+
+<g
+   id="g3315"
+   transform="translate(0.20311351,-13.943771)">
+			
+				<line
+   x1="28.799999"
+   y1="64.799004"
+   x2="28.799999"
+   y2="72"
+   id="line3317"
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round" />
+		</g><line
+   x1="0.34999916"
+   y1="33.149998"
+   x2="7.5499992"
+   y2="33.149998"
+   id="line3319"
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round" /><line
+   x1="0.34999916"
+   y1="25.949999"
+   x2="7.5499992"
+   y2="25.949999"
+   id="line3321"
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round" /><g
+   id="g3327"
+   transform="translate(0.34999916,0.34999999)">
+			
+				<line
+   x1="28.799999"
+   y1="7.2010002"
+   x2="28.799999"
+   y2="0"
+   id="line3329"
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round" />
+		</g><g
+   id="g3331"
+   transform="translate(0.34999916,4.35)">
+			
+				<line
+   x1="50.401001"
+   y1="28.799999"
+   x2="57.599998"
+   y2="28.799999"
+   id="line3333"
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round" />
+		</g><g
+   id="g3335"
+   transform="translate(0.34999916,4.35)">
+			
+				<line
+   x1="50.401001"
+   y1="21.6"
+   x2="57.599998"
+   y2="21.604"
+   id="line3337"
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round" />
+		</g>
+<g
+   inkscape:groupmode="layer"
+   id="layer5"
+   inkscape:label="background"
+   style="display:inline"
+   transform="translate(0.34999916,0.34999999)" /><g
+   inkscape:groupmode="layer"
+   id="layer7"
+   inkscape:label="Part"
+   style="display:inline"
+   transform="translate(0.34999916,0.34999999)"><rect
+     style="fill:#ffffff;stroke:#000000;stroke-width:0.78251714;stroke-linecap:round"
+     height="43.523582"
+     width="43.199001"
+     y="7.1999998"
+     x="7.1999998"
+     id="part_symbol" /><text
+     style="font-size:6px;font-family:DroidSans"
+     id="text3391"
+     font-size="6"
+     x="14.297602"
+     y="19.125128">Femtobuck </text>
+</g><g
+   inkscape:groupmode="layer"
+   id="layer6"
+   inkscape:label="connectornames"
+   style="display:inline"
+   transform="translate(0.34999916,0.34999999)"><text
+     font-size="4.5"
+     id="text3373"
+     style="font-size:4.5px;fill:#555555;font-family:DroidSans"
+     x="27.932899"
+     y="12.5352" />
+<text
+     font-size="4.5"
+     id="text3375"
+     style="font-size:4.5px;fill:#555555;font-family:DroidSans"
+     x="30.0168"
+     y="12.5352" />
+<text
+     font-size="4.5"
+     id="text3369"
+     style="font-size:4.5px;fill:#555555;font-family:DroidSans"
+     x="26.520113"
+     y="48.778671">V-</text>
+<text
+     font-size="4.5"
+     id="text3371"
+     style="font-size:4.5px;fill:#555555;font-family:DroidSans"
+     x="26.099543"
+     y="12.5352"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       id="tspan3401">V+</tspan></text>
+<text
+     font-size="4.5"
+     id="text3377"
+     style="font-size:4.5px;fill:#555555;font-family:DroidSans"
+     x="9.2594995"
+     y="26.683599">D+</text>
+<text
+     font-size="4.5"
+     id="text3379"
+     style="font-size:4.5px;fill:#555555;font-family:DroidSans"
+     x="9.2189999"
+     y="33.986298">D-</text>
+<text
+     font-size="4.5"
+     id="text3385"
+     style="font-size:4.5px;fill:#555555;font-family:DroidSans"
+     x="36.7122"
+     y="26.683599">LED+</text>
+<text
+     y="26.683599"
+     x="36.7122"
+     style="font-size:4.5px;fill:#555555;font-family:DroidSans"
+     id="text3533"
+     font-size="4.5">LED+</text>
+<text
+     y="33.903309"
+     x="36.7122"
+     style="font-size:4.5px;fill:#555555;font-family:DroidSans"
+     id="text3545"
+     font-size="4.5">LED+</text>
+<text
+     y="47.206009"
+     x="36.7122"
+     style="font-size:4.5px;fill:#555555;font-family:DroidSans"
+     id="text3547"
+     font-size="4.5">LED-</text>
+<text
+     font-size="4.5"
+     id="text3549"
+     style="font-size:4.5px;fill:#555555;font-family:DroidSans"
+     x="36.7122"
+     y="39.903309">LED-</text>
+<text
+     font-size="4.5"
+     id="text3551"
+     style="font-size:4.5px;fill:#555555;font-family:DroidSans"
+     x="36.7122"
+     y="47.206009">LED-</text>
+</g><g
+   inkscape:groupmode="layer"
+   id="layer8"
+   inkscape:label="connectors"
+   transform="translate(0.34999916,0.34999999)" /><g
+   transform="translate(0.34999916,17.56971)"
+   id="g3537">
+			
+				<line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line3539"
+   y2="28.799999"
+   x2="57.599998"
+   y1="28.799999"
+   x1="50.401001" />
+		</g><g
+   transform="translate(0.34999916,17.56971)"
+   id="g3541">
+			
+				<line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line3543"
+   y2="21.604"
+   x2="57.599998"
+   y1="21.6"
+   x1="50.401001" />
+		</g></svg>

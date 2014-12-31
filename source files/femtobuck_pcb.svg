@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="36.84375"
+   height="135.3125"
+   id="svg2"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="femtobuck_pcb.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     id="namedview3051"
+     showgrid="false"
+     inkscape:zoom="6.1018816"
+     inkscape:cx="18.421875"
+     inkscape:cy="67.65625"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer3" />
+  <defs
+     id="defs4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="silkscreen">
+    <g
+       transform="translate(-161.42897,-167.90485)"
+       id="layer1"
+       style="display:inline">
+      <path
+         d="m 14.625,8.96875 c -2.9916,0 -5.40625,2.41465 -5.40625,5.40625 l 0,1.75 2.40625,0 c 1.385,0 2.5,1.115 2.5,2.5 l 0,7.40625 c 0,1.385 -1.115,2.5 -2.5,2.5 l -2.40625,0 0,92.84375 2.03125,0 c 1.385,0 2.5,1.115 2.5,2.5 l 0,7.40625 c 0,1.385 -1.115,2.5 -2.5,2.5 l -2.03125,0 0,4.96875 c 0,2.9916 2.41465,5.40625 5.40625,5.40625 l 25.90625,0 c 2.9916,0 5.40625,-2.41465 5.40625,-5.40625 l 0,-4.59375 -2.40625,0 c -1.385,0 -2.5,-1.115 -2.5,-2.5 l 0,-7.40625 c 0,-1.385 1.115,-2.5 2.5,-2.5 l 2.40625,0 0,-93.03125 -2.21875,0 c -1.385,0 -2.5,-1.115 -2.5,-2.5 l 0,-7.40625 c 0,-1.385 1.115,-2.5 2.5,-2.5 l 2.21875,0 0,-1.9375 c 0,-2.9916 -2.41465,-5.40625 -5.40625,-5.40625 l -25.90625,0 z M 32,30.90625 c 1.611793,0 2.9375,1.294457 2.9375,2.90625 0,1.611793 -1.325707,2.90625 -2.9375,2.90625 -1.611793,0 -2.90625,-1.294457 -2.90625,-2.90625 0,-1.611793 1.294457,-2.90625 2.90625,-2.90625 z M 22.6875,31 c 1.611793,0 2.90625,1.294457 2.90625,2.90625 0,1.611793 -1.294457,2.9375 -2.90625,2.9375 -1.611793,0 -2.90625,-1.325707 -2.90625,-2.9375 C 19.78125,32.294457 21.075707,31 22.6875,31 z m -9.3125,0.09375 c 1.611793,0 2.90625,1.294457 2.90625,2.90625 0,1.611793 -1.294457,2.9375 -2.90625,2.9375 -1.611793,0 -2.9375,-1.325707 -2.9375,-2.9375 0,-1.611793 1.325707,-2.90625 2.9375,-2.90625 z m 27.65625,0 c 1.611793,0 2.9375,1.294457 2.9375,2.90625 0,1.611793 -1.325707,2.9375 -2.9375,2.9375 -1.611793,0 -2.90625,-1.325707 -2.90625,-2.9375 0,-1.611793 1.294457,-2.90625 2.90625,-2.90625 z m -6.9375,80.96875 c 1.611793,0 2.90625,1.29446 2.90625,2.90625 0,1.61179 -1.294457,2.90625 -2.90625,2.90625 -1.611793,0 -2.9375,-1.29446 -2.9375,-2.90625 0,-1.61179 1.325707,-2.90625 2.9375,-2.90625 z m -13.75,0.375 c 1.611793,0 2.90625,1.29446 2.90625,2.90625 0,1.61179 -1.294457,2.90625 -2.90625,2.90625 -1.611793,0 -2.9375,-1.29446 -2.9375,-2.90625 0,-1.61179 1.325707,-2.90625 2.9375,-2.90625 z m 11.84375,10.34375 c 1.611793,0 2.9375,1.29446 2.9375,2.90625 0,1.61179 -1.325707,2.9375 -2.9375,2.9375 -1.611793,0 -2.90625,-1.32571 -2.90625,-2.9375 0,-1.61179 1.294457,-2.90625 2.90625,-2.90625 z m -9.40625,0.1875 c 1.611793,0 2.90625,1.29446 2.90625,2.90625 0,1.61179 -1.294457,2.9375 -2.90625,2.9375 -1.611793,0 -2.90625,-1.32571 -2.90625,-2.9375 0,-1.61179 1.294457,-2.90625 2.90625,-2.90625 z"
+         transform="translate(152.27272,158.9986)"
+         id="rect3033"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         x="30.313808"
+         y="27.60251"
+         transform="translate(152.27272,158.9986)"
+         id="text3933"
+         xml:space="preserve"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
+           x="30.313808"
+           y="27.60251"
+           id="tspan3935" /></text>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="copper0">
+    <g
+       id="copper0"
+       inkscape:label="#g3121">
+      <g
+         inkscape:label="#layer2"
+         style="display:inline"
+         id="copper1">
+        <path
+           style="fill:#000000;fill-opacity:0;stroke:#9a916c;stroke-width:1.5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+           id="Vminus"
+           transform="translate(-0.37657,0.47071)"
+           d="m 7.9079497,24.695345 a 3.1066945,2.9184101 0 1 1 -6.2133889,0 3.1066945,2.9184101 0 1 1 6.2133889,0 z">
+          <desc
+             id="desc3999">Power - / ground</desc>
+          <title
+             id="title3997">V-</title>
+        </path>
+        <path
+           style="fill:none;stroke:#9a916c;stroke-width:1.5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+           id="Vplus"
+           transform="translate(8.78661,0.47071)"
+           d="m 7.9079497,24.695345 a 3.1066945,2.9184101 0 1 1 -6.2133889,0 3.1066945,2.9184101 0 1 1 6.2133889,0 z">
+          <desc
+             id="desc4003">Power +</desc>
+          <title
+             id="title4001">V+</title>
+        </path>
+        <path
+           style="fill:none;stroke:#9a916c;stroke-width:1.5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+           id="Dminus"
+           transform="translate(17.9498,0.47071)"
+           d="m 7.9079497,24.695345 a 3.1066945,2.9184101 0 1 1 -6.2133889,0 3.1066945,2.9184101 0 1 1 6.2133889,0 z">
+          <desc
+             id="desc4007">PWM Control signal - / ground</desc>
+          <title
+             id="title4005">D-</title>
+        </path>
+        <path
+           style="fill:none;stroke:#9a916c;stroke-width:1.5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+           id="Dplus"
+           transform="translate(27.112981,0.47071)"
+           d="m 7.9079497,24.695345 a 3.1066945,2.9184101 0 1 1 -6.2133889,0 3.1066945,2.9184101 0 1 1 6.2133889,0 z">
+          <desc
+             id="desc4011">PWM control signal +</desc>
+          <title
+             id="title4009">D+</title>
+        </path>
+        <path
+           style="fill:none;stroke:#9a916c;stroke-width:1.5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+           id="ledminusterm"
+           transform="translate(6.2134,81.43305)"
+           d="m 7.9079497,24.695345 a 3.1066945,2.9184101 0 1 1 -6.2133889,0 3.1066945,2.9184101 0 1 1 6.2133889,0 z">
+          <desc
+             id="desc4015">LED minus for Terminal Block</desc>
+          <title
+             id="title4013">LED-</title>
+        </path>
+        <path
+           style="fill:none;stroke:#9a916c;stroke-width:1.5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+           id="ledplusterm"
+           transform="translate(19.76989,81.43305)"
+           d="m 7.9079497,24.695345 a 3.1066945,2.9184101 0 1 1 -6.2133889,0 3.1066945,2.9184101 0 1 1 6.2133889,0 z">
+          <desc
+             id="desc4019">LED minus for Terminal Block</desc>
+          <title
+             id="title4017">LED+</title>
+        </path>
+        <path
+           style="fill:none;stroke:#9a916c;stroke-width:1.5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+           id="ledminusbb"
+           transform="translate(8.6611,92.07113)"
+           d="m 7.9079497,24.695345 a 3.1066945,2.9184101 0 1 1 -6.2133889,0 3.1066945,2.9184101 0 1 1 6.2133889,0 z">
+          <desc
+             id="desc4023">LED minus for Breadboard</desc>
+          <title
+             id="title4021">LED-</title>
+        </path>
+        <path
+           style="fill:none;stroke:#9a916c;stroke-width:1.5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+           id="ledplusbb"
+           transform="translate(18.26361,92.07113)"
+           d="m 7.9079497,24.695345 a 3.1066945,2.9184101 0 1 1 -6.2133889,0 3.1066945,2.9184101 0 1 1 6.2133889,0 z">
+          <desc
+             id="desc4027">LED plus for Breadboard</desc>
+          <title
+             id="title4025">LED+</title>
+        </path>
+      </g>
+    </g>
+  </g>
+</svg>
